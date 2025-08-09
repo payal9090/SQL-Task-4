@@ -1,0 +1,11 @@
+SaleID,Product,Category,Quantity,Price,SaleDate
+1,T-shirt,Clothing,3,500,01-08-2025
+2,Jeans,Clothing,2,1200,01-08-2025
+3,Sneakers,Footwear,1,2500,02-08-2025
+4,Sandals,Footwear,4,800,02-08-2025
+5,Jacket,Clothing,1,3000,03-08-2025
+6,Cap,Accessories,5,200,03-08-2025
+7,Dress,Clothing,2,1500,04-08-2025
+8,Boots,Footwear,1,4000,04-08-2025
+9,Shirt,Clothing,3,800,05-08-2025
+10,Slippers,Footwear,2,300,05-08-2025
